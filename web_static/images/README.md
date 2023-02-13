@@ -1,0 +1,1 @@
+This folder contains website all the images for the site.
